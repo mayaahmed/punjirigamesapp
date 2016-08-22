@@ -14,7 +14,7 @@ margin: 0px;
 
 
 #top_header{
-	font: bold 24px Comic Sans MS;
+	font: bold 40px Comic Sans MS;
     // padding: 20px;
    color: khaki;
   
@@ -48,13 +48,10 @@ opacity: 0.7;
 
 
 #main_section{
-	border: 1px solid olive;
-    border-radius: 25px;
+
 	-webkit-box-flex: 1;
 //	margin: 20px;
-	padding: 20px;
- background: linear-gradient(khaki,white);
-// box-shadow: 7px 7px 10px black;
+	padding-right: 50px;
 
 }
 
@@ -90,15 +87,17 @@ font-size: 11px;
 
 
 
-
+/*
 #snakes{
 clear: both;
 float: left;
 }
+*/
 
 .column a{
 text-decoration: none;
 color: olive;
+font-size: 11px;
 }
 
 
